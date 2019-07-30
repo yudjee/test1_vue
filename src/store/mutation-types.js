@@ -1,0 +1,6 @@
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const CHANGE_TO_HIDDEN = 'CHANGE_TO_HIDDEN';
+export const CHANGE_TO_UNHIDDEN = 'CHANGE_TO_UNHIDDEN';
+export const OPEN_POPUP = 'OPEN_POPUP';
+export const CLOSE_POPUP = 'CLOSE_POPUP';
+export const DELETE_ORDER = 'DELETE_ORDER';
